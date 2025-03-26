@@ -1,5 +1,15 @@
-Replace this file with files that you would like to use for your demo. This may include
+Location - Artifacts/demo/app1
+- 🔹 Starting the Gradio UI App
+- 🔹 Agent-Device Search
+- 🔹 Agent - Troubleshooting
+- 🔹 Agent - Observability
+- 🔹 Agent - Knowledge Base
+- 🔹 Agent - Incident Response
 
-- A presentation/deck in pdf or pptx format
-- A demo video (screen capture) in mp4 or other popular video formats
-- Any other document describing your solution (in pdf or md format)
+Location - Artifacts/demo/app2
+- 🔹 Starting the Gradio UI App
+- 🔹 Agent-Device Search
+- 🔹 Agent - Troubleshooting
+- 🔹 Agent - Observability
+- 🔹 Agent - Knowledge Base
+- 🔹 Agent - Incident Response
